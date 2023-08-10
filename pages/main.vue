@@ -1,9 +1,11 @@
 <template>
-  <div>main page</div>
+  <div>
+    <h1>메인 페이지</h1>
+    <p>메인 페이지입니다.</p>
+  </div>  
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
 }
 </script>

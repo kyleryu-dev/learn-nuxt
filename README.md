@@ -1,6 +1,6 @@
 # learn-nuxt
 
-## Build Setup
+## Nuxt 학습
 
 ```bash
 # install dependencies
